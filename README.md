@@ -1,1 +1,1 @@
-REST API example in Go
+REST API example in Go (using Gin)
